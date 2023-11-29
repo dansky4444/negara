@@ -5,7 +5,7 @@ import (
 )
 
 var aseanCountry = [10]string{
-	"Brunei",
+	"Palestina",
 	"Cambodia",
 	"Indonesia",
 	"Laos",
